@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/contact-manger-react/static/css/1.54ba07f6.chunk.css"
   },
   {
-    "revision": "ea87542f86ebdfcd56ddfb929c3ff940",
+    "revision": "a72d1d64a89982b8d7bf4c5d183db13c",
     "url": "/contact-manger-react/index.html"
   }
 ];
